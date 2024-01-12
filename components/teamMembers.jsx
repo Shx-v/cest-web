@@ -36,10 +36,10 @@ const TeamMembers = () => {
             className="w-[250px] h-[250px] bg-slate-600 rounded-full"
           />
           <div className="flex flex-col">
-            <p className="text-4xl font-bold w-[50vw]">
-              Faculty Advisor, CEST Club
+            <p className="text-4xl font-bold w-[30vw]">
+              Faculty Advisor
             </p>
-            <p className="text-2xl font-medium">Sybhojit Mandal</p>
+            <p className="text-2xl font-medium">Subhojit Mandal</p>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime
               laborum aspernatur minus, eius expedita tempora aperiam maiores,
